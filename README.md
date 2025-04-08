@@ -64,14 +64,9 @@ python manage.py runserver
 
 
 #OUTPUT 
-![Screenshot 2025-04-08 143222](https://github.com/user-attachments/assets/07cd9de5-735a-41ce-95a3-6f8d8f359136)
-
-
-
-https://github.com/vikkyjangam/Automating-Job-Application-Across-Various-Platforms/edit/main/app3.png
-
-
-![Screenshot 2025-04-08 143144](https://github.com/user-attachments/assets/830efd4f-4e82-44ac-8927-60d00a174da0)
+![App Screenshot 1](app1.png)
+![App Screenshot 2](app2.png)
+![App Screenshot 3](app3.png)
 
 
 
