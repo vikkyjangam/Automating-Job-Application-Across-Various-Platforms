@@ -20,6 +20,11 @@ This system automates the end-to-end job application process for seekers, levera
 
 ---
 
+#OUTPUT 
+![App Screenshot 1](app1.png)
+![App Screenshot 2](app2.png)
+![App Screenshot 3](app3.png)
+
 ## 🛠️ Tech Stack
 **Frontend**  
 ▶ React.js + TypeScript (Vite build)  
@@ -63,10 +68,7 @@ python manage.py migrate
 python manage.py runserver
 
 
-#OUTPUT 
-![App Screenshot 1](app1.png)
-![App Screenshot 2](app2.png)
-![App Screenshot 3](app3.png)
+
 
 
 
