@@ -68,7 +68,7 @@ python manage.py runserver
 
 
 
-![Screenshot 2025-04-08 143127](https://github.com/user-attachments/assets/964b8c11-b944-4c23-9705-98b0a17f1b8b)
+https://github.com/vikkyjangam/Automating-Job-Application-Across-Various-Platforms/edit/main/app3.png
 
 
 ![Screenshot 2025-04-08 143144](https://github.com/user-attachments/assets/830efd4f-4e82-44ac-8927-60d00a174da0)
